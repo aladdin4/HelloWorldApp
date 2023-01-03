@@ -21,3 +21,8 @@ PeopleLibrary/obj/PeopleLibrary.csproj.nuget.dgspec.json
 PeopleLibrary/obj/PeopleLibrary.csproj.nuget.g.props
 PeopleLibrary/obj/project.assets.json
 PeopleLibrary/obj/project.nuget.cache
+*.pdb
+*.dll
+*.txt
+*.cs
+*.cache
