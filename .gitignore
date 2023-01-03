@@ -26,3 +26,8 @@ PeopleLibrary/obj/project.nuget.cache
 *.txt
 *.cs
 *.cache
+*.v2
+*.dll
+*.pdb
+*.cache
+*.txt
