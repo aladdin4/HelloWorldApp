@@ -16,6 +16,9 @@
         }
       },
       "BattlefieldGameLibrary/1.0.0": {
+        "dependencies": {
+          "PeopleLibrary": "1.0.0"
+        },
         "runtime": {
           "BattlefieldGameLibrary.dll": {}
         }
