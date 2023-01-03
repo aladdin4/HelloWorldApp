@@ -1,0 +1,10 @@
+C:\Users\Ahmed\Desktop\HelloWorldApp\BattlefieldGameLibrary\bin\Debug\netcoreapp3.1\BattlefieldGameLibrary.deps.json
+C:\Users\Ahmed\Desktop\HelloWorldApp\BattlefieldGameLibrary\bin\Debug\netcoreapp3.1\BattlefieldGameLibrary.dll
+C:\Users\Ahmed\Desktop\HelloWorldApp\BattlefieldGameLibrary\bin\Debug\netcoreapp3.1\BattlefieldGameLibrary.pdb
+C:\Users\Ahmed\Desktop\HelloWorldApp\BattlefieldGameLibrary\obj\Debug\netcoreapp3.1\BattlefieldGameLibrary.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\HelloWorldApp\BattlefieldGameLibrary\obj\Debug\netcoreapp3.1\BattlefieldGameLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\HelloWorldApp\BattlefieldGameLibrary\obj\Debug\netcoreapp3.1\BattlefieldGameLibrary.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\HelloWorldApp\BattlefieldGameLibrary\obj\Debug\netcoreapp3.1\BattlefieldGameLibrary.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\HelloWorldApp\BattlefieldGameLibrary\obj\Debug\netcoreapp3.1\BattlefieldGameLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\HelloWorldApp\BattlefieldGameLibrary\obj\Debug\netcoreapp3.1\BattlefieldGameLibrary.dll
+C:\Users\Ahmed\Desktop\HelloWorldApp\BattlefieldGameLibrary\obj\Debug\netcoreapp3.1\BattlefieldGameLibrary.pdb

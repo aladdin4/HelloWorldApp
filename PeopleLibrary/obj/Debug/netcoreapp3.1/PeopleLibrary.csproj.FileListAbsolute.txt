@@ -1,0 +1,10 @@
+C:\Users\Ahmed\Desktop\HelloWorldApp\PeopleLibrary\bin\Debug\netcoreapp3.1\PeopleLibrary.deps.json
+C:\Users\Ahmed\Desktop\HelloWorldApp\PeopleLibrary\bin\Debug\netcoreapp3.1\PeopleLibrary.dll
+C:\Users\Ahmed\Desktop\HelloWorldApp\PeopleLibrary\bin\Debug\netcoreapp3.1\PeopleLibrary.pdb
+C:\Users\Ahmed\Desktop\HelloWorldApp\PeopleLibrary\obj\Debug\netcoreapp3.1\PeopleLibrary.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\HelloWorldApp\PeopleLibrary\obj\Debug\netcoreapp3.1\PeopleLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\HelloWorldApp\PeopleLibrary\obj\Debug\netcoreapp3.1\PeopleLibrary.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\HelloWorldApp\PeopleLibrary\obj\Debug\netcoreapp3.1\PeopleLibrary.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\HelloWorldApp\PeopleLibrary\obj\Debug\netcoreapp3.1\PeopleLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\HelloWorldApp\PeopleLibrary\obj\Debug\netcoreapp3.1\PeopleLibrary.dll
+C:\Users\Ahmed\Desktop\HelloWorldApp\PeopleLibrary\obj\Debug\netcoreapp3.1\PeopleLibrary.pdb

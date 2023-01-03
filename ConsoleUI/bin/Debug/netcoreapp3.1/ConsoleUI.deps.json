@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleUI/1.0.0": {
+        "dependencies": {
+          "BattlefieldGameLibrary": "1.0.0",
+          "PeopleLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleUI.dll": {}
+        }
+      },
+      "BattlefieldGameLibrary/1.0.0": {
+        "runtime": {
+          "BattlefieldGameLibrary.dll": {}
+        }
+      },
+      "PeopleLibrary/1.0.0": {
+        "runtime": {
+          "PeopleLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BattlefieldGameLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PeopleLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
