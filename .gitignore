@@ -31,3 +31,11 @@ PeopleLibrary/obj/project.nuget.cache
 *.pdb
 *.cache
 *.txt
+.vs/HelloWorldApp/v16/.suo
+BattlefieldGameLibrary/obj/BattlefieldGameLibrary.csproj.nuget.g.targets
+BattlefieldGameLibrary/obj/Debug/netcoreapp3.1/BattlefieldGameLibrary.csproj.CopyComplete
+ConsoleUI/bin/Debug/netcoreapp3.1/ConsoleUI.exe
+ConsoleUI/obj/ConsoleUI.csproj.nuget.g.targets
+ConsoleUI/obj/Debug/netcoreapp3.1/apphost.exe
+ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.csproj.CopyComplete
+PeopleLibrary/obj/PeopleLibrary.csproj.nuget.g.targets
