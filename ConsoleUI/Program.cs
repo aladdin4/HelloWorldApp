@@ -11,7 +11,7 @@ namespace ConsoleUI
         static void Main(string[] args)
         {
             Console.WriteLine("welcome to my App.");
-
+            Console.WriteLine("working.");
             List<ITester> myList = new List<ITester>();
             myList.Add(new FirstType());
             myList.Add(new SecondType());
