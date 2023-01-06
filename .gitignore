@@ -15,3 +15,14 @@
 *.cache
 *.txt
 
+BattlefieldGameLibrary/obj/BattlefieldGameLibrary.csproj.nuget.g.targets
+.vs/HelloWorldApp/v16/.suo
+BattlefieldGameLibrary/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+BattlefieldGameLibrary/obj/Debug/netcoreapp3.1/BattlefieldGameLibrary.AssemblyInfo.cs
+*.exe
+*.CopyComplete
+*.targets
+ConsoleUI/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.AssemblyInfo.cs
+PeopleLibrary/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+PeopleLibrary/obj/Debug/netcoreapp3.1/PeopleLibrary.AssemblyInfo.cs
