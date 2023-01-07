@@ -1,6 +1,19 @@
 
-.vs/HelloWorldApp/DesignTimeBuild/.dtbcache.v2
-.vs/HelloWorldApp/v16/.suo
-.vs/HelloWorldApp/DesignTimeBuild/.dtbcache.v2
-.vs/HelloWorldApp/DesignTimeBuild/.dtbcache.v2
-.vs/HelloWorldApp/v16/.suo
+*.json
+*.props
+*.cache
+*.editorconfig
+*.pdb
+*.dll
+*.cache
+*.v2
+*.dll
+*.pdb
+*.cache
+*.txt
+*.suo
+*.AssemblyAttributes.cs
+*.AssemblyInfo.cs
+*.exe
+*.CopyComplete
+*.targets

@@ -88,36 +88,6 @@ namespace ConsoleUI
         }
     }
 
-    public interface ITester
-    {
-        void printMeFirst(string name);
-    }
-
-    public class FirstType : ITester
-    {
-        public void printMeFirst(string name)
-        {
-            Console.WriteLine("inside the first type class");
-        }
-        public void printMeSecond(string name)
-        {
-            Console.WriteLine("the specific type method inside the first type class");
-
-        }
-    }
-
-    public class SecondType : ITester
-    {
-        public void printMeFirst(string name)
-        {
-            Console.WriteLine("inside the second type class");
-        }
-        public void printMethird(string name)
-        {
-            Console.WriteLine("the specific type method inside the second type class");
-        }
-    }
-
 }
 
 
