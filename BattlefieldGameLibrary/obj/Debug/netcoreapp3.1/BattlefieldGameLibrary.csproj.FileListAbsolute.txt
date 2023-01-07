@@ -1,0 +1,13 @@
+E:\_projects\Angular\HelloWorldApp\BattlefieldGameLibrary\bin\Debug\netcoreapp3.1\BattlefieldGameLibrary.deps.json
+E:\_projects\Angular\HelloWorldApp\BattlefieldGameLibrary\bin\Debug\netcoreapp3.1\BattlefieldGameLibrary.dll
+E:\_projects\Angular\HelloWorldApp\BattlefieldGameLibrary\bin\Debug\netcoreapp3.1\BattlefieldGameLibrary.pdb
+E:\_projects\Angular\HelloWorldApp\BattlefieldGameLibrary\bin\Debug\netcoreapp3.1\PeopleLibrary.dll
+E:\_projects\Angular\HelloWorldApp\BattlefieldGameLibrary\bin\Debug\netcoreapp3.1\PeopleLibrary.pdb
+E:\_projects\Angular\HelloWorldApp\BattlefieldGameLibrary\obj\Debug\netcoreapp3.1\BattlefieldGameLibrary.csproj.AssemblyReference.cache
+E:\_projects\Angular\HelloWorldApp\BattlefieldGameLibrary\obj\Debug\netcoreapp3.1\BattlefieldGameLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\_projects\Angular\HelloWorldApp\BattlefieldGameLibrary\obj\Debug\netcoreapp3.1\BattlefieldGameLibrary.AssemblyInfoInputs.cache
+E:\_projects\Angular\HelloWorldApp\BattlefieldGameLibrary\obj\Debug\netcoreapp3.1\BattlefieldGameLibrary.AssemblyInfo.cs
+E:\_projects\Angular\HelloWorldApp\BattlefieldGameLibrary\obj\Debug\netcoreapp3.1\BattlefieldGameLibrary.csproj.CoreCompileInputs.cache
+E:\_projects\Angular\HelloWorldApp\BattlefieldGameLibrary\obj\Debug\netcoreapp3.1\BattlefieldGameLibrary.csproj.CopyComplete
+E:\_projects\Angular\HelloWorldApp\BattlefieldGameLibrary\obj\Debug\netcoreapp3.1\BattlefieldGameLibrary.dll
+E:\_projects\Angular\HelloWorldApp\BattlefieldGameLibrary\obj\Debug\netcoreapp3.1\BattlefieldGameLibrary.pdb

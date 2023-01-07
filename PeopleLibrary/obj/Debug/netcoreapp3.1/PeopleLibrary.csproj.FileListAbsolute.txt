@@ -1,0 +1,10 @@
+E:\_projects\Angular\HelloWorldApp\PeopleLibrary\bin\Debug\netcoreapp3.1\PeopleLibrary.deps.json
+E:\_projects\Angular\HelloWorldApp\PeopleLibrary\bin\Debug\netcoreapp3.1\PeopleLibrary.dll
+E:\_projects\Angular\HelloWorldApp\PeopleLibrary\bin\Debug\netcoreapp3.1\PeopleLibrary.pdb
+E:\_projects\Angular\HelloWorldApp\PeopleLibrary\obj\Debug\netcoreapp3.1\PeopleLibrary.csproj.AssemblyReference.cache
+E:\_projects\Angular\HelloWorldApp\PeopleLibrary\obj\Debug\netcoreapp3.1\PeopleLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\_projects\Angular\HelloWorldApp\PeopleLibrary\obj\Debug\netcoreapp3.1\PeopleLibrary.AssemblyInfoInputs.cache
+E:\_projects\Angular\HelloWorldApp\PeopleLibrary\obj\Debug\netcoreapp3.1\PeopleLibrary.AssemblyInfo.cs
+E:\_projects\Angular\HelloWorldApp\PeopleLibrary\obj\Debug\netcoreapp3.1\PeopleLibrary.csproj.CoreCompileInputs.cache
+E:\_projects\Angular\HelloWorldApp\PeopleLibrary\obj\Debug\netcoreapp3.1\PeopleLibrary.dll
+E:\_projects\Angular\HelloWorldApp\PeopleLibrary\obj\Debug\netcoreapp3.1\PeopleLibrary.pdb
