@@ -11,3 +11,16 @@ E:\_projects\Angular\HelloWorldApp\BattlefieldGameLibrary\obj\Debug\netcoreapp3.
 E:\_projects\Angular\HelloWorldApp\BattlefieldGameLibrary\obj\Debug\netcoreapp3.1\BattlefieldGameLibrary.csproj.CopyComplete
 E:\_projects\Angular\HelloWorldApp\BattlefieldGameLibrary\obj\Debug\netcoreapp3.1\BattlefieldGameLibrary.dll
 E:\_projects\Angular\HelloWorldApp\BattlefieldGameLibrary\obj\Debug\netcoreapp3.1\BattlefieldGameLibrary.pdb
+G:\Work\Projects\.NET\HelloWorldApp\BattlefieldGameLibrary\bin\Debug\netcoreapp3.1\BattlefieldGameLibrary.deps.json
+G:\Work\Projects\.NET\HelloWorldApp\BattlefieldGameLibrary\bin\Debug\netcoreapp3.1\BattlefieldGameLibrary.dll
+G:\Work\Projects\.NET\HelloWorldApp\BattlefieldGameLibrary\bin\Debug\netcoreapp3.1\BattlefieldGameLibrary.pdb
+G:\Work\Projects\.NET\HelloWorldApp\BattlefieldGameLibrary\bin\Debug\netcoreapp3.1\PeopleLibrary.dll
+G:\Work\Projects\.NET\HelloWorldApp\BattlefieldGameLibrary\bin\Debug\netcoreapp3.1\PeopleLibrary.pdb
+G:\Work\Projects\.NET\HelloWorldApp\BattlefieldGameLibrary\obj\Debug\netcoreapp3.1\BattlefieldGameLibrary.csproj.AssemblyReference.cache
+G:\Work\Projects\.NET\HelloWorldApp\BattlefieldGameLibrary\obj\Debug\netcoreapp3.1\BattlefieldGameLibrary.GeneratedMSBuildEditorConfig.editorconfig
+G:\Work\Projects\.NET\HelloWorldApp\BattlefieldGameLibrary\obj\Debug\netcoreapp3.1\BattlefieldGameLibrary.AssemblyInfoInputs.cache
+G:\Work\Projects\.NET\HelloWorldApp\BattlefieldGameLibrary\obj\Debug\netcoreapp3.1\BattlefieldGameLibrary.AssemblyInfo.cs
+G:\Work\Projects\.NET\HelloWorldApp\BattlefieldGameLibrary\obj\Debug\netcoreapp3.1\BattlefieldGameLibrary.csproj.CoreCompileInputs.cache
+G:\Work\Projects\.NET\HelloWorldApp\BattlefieldGameLibrary\obj\Debug\netcoreapp3.1\BattlefieldGameLibrary.csproj.CopyComplete
+G:\Work\Projects\.NET\HelloWorldApp\BattlefieldGameLibrary\obj\Debug\netcoreapp3.1\BattlefieldGameLibrary.dll
+G:\Work\Projects\.NET\HelloWorldApp\BattlefieldGameLibrary\obj\Debug\netcoreapp3.1\BattlefieldGameLibrary.pdb

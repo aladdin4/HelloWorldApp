@@ -8,3 +8,13 @@ E:\_projects\Angular\HelloWorldApp\PeopleLibrary\obj\Debug\netcoreapp3.1\PeopleL
 E:\_projects\Angular\HelloWorldApp\PeopleLibrary\obj\Debug\netcoreapp3.1\PeopleLibrary.csproj.CoreCompileInputs.cache
 E:\_projects\Angular\HelloWorldApp\PeopleLibrary\obj\Debug\netcoreapp3.1\PeopleLibrary.dll
 E:\_projects\Angular\HelloWorldApp\PeopleLibrary\obj\Debug\netcoreapp3.1\PeopleLibrary.pdb
+G:\Work\Projects\.NET\HelloWorldApp\PeopleLibrary\bin\Debug\netcoreapp3.1\PeopleLibrary.deps.json
+G:\Work\Projects\.NET\HelloWorldApp\PeopleLibrary\bin\Debug\netcoreapp3.1\PeopleLibrary.dll
+G:\Work\Projects\.NET\HelloWorldApp\PeopleLibrary\bin\Debug\netcoreapp3.1\PeopleLibrary.pdb
+G:\Work\Projects\.NET\HelloWorldApp\PeopleLibrary\obj\Debug\netcoreapp3.1\PeopleLibrary.csproj.AssemblyReference.cache
+G:\Work\Projects\.NET\HelloWorldApp\PeopleLibrary\obj\Debug\netcoreapp3.1\PeopleLibrary.GeneratedMSBuildEditorConfig.editorconfig
+G:\Work\Projects\.NET\HelloWorldApp\PeopleLibrary\obj\Debug\netcoreapp3.1\PeopleLibrary.AssemblyInfoInputs.cache
+G:\Work\Projects\.NET\HelloWorldApp\PeopleLibrary\obj\Debug\netcoreapp3.1\PeopleLibrary.AssemblyInfo.cs
+G:\Work\Projects\.NET\HelloWorldApp\PeopleLibrary\obj\Debug\netcoreapp3.1\PeopleLibrary.csproj.CoreCompileInputs.cache
+G:\Work\Projects\.NET\HelloWorldApp\PeopleLibrary\obj\Debug\netcoreapp3.1\PeopleLibrary.dll
+G:\Work\Projects\.NET\HelloWorldApp\PeopleLibrary\obj\Debug\netcoreapp3.1\PeopleLibrary.pdb

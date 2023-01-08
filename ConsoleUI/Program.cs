@@ -13,7 +13,7 @@ namespace ConsoleUI
             Console.WriteLine("welcome to my App.");
             Console.WriteLine("working.");
             List<ITester> myList = new List<ITester>();
-            myList.Add(new FirstType());
+            myList.Add(new FirstType { name= "xx", age= 12});
             myList.Add(new SecondType());
 
             foreach (var item in myList)
