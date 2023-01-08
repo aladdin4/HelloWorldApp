@@ -1,15 +1,11 @@
-
 *.json
 *.props
 *.cache
 *.editorconfig
 *.pdb
-*.dll
 *.cache
 *.v2
 *.dll
-*.pdb
-*.cache
 *.txt
 *.suo
 *.AssemblyAttributes.cs
