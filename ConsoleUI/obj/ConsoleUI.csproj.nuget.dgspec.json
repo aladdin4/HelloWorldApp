@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\_projects\\Angular\\HelloWorldApp\\ConsoleUI\\ConsoleUI.csproj": {}
+    "G:\\Work\\Projects\\.NET\\HelloWorldApp\\ConsoleUI\\ConsoleUI.csproj": {}
   },
   "projects": {
-    "E:\\_projects\\Angular\\HelloWorldApp\\BattlefieldGameLibrary\\BattlefieldGameLibrary.csproj": {
+    "G:\\Work\\Projects\\.NET\\HelloWorldApp\\BattlefieldGameLibrary\\BattlefieldGameLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\_projects\\Angular\\HelloWorldApp\\BattlefieldGameLibrary\\BattlefieldGameLibrary.csproj",
+        "projectUniqueName": "G:\\Work\\Projects\\.NET\\HelloWorldApp\\BattlefieldGameLibrary\\BattlefieldGameLibrary.csproj",
         "projectName": "BattlefieldGameLibrary",
-        "projectPath": "E:\\_projects\\Angular\\HelloWorldApp\\BattlefieldGameLibrary\\BattlefieldGameLibrary.csproj",
-        "packagesPath": "C:\\Users\\Ahmed\\.nuget\\packages\\",
-        "outputPath": "E:\\_projects\\Angular\\HelloWorldApp\\BattlefieldGameLibrary\\obj\\",
+        "projectPath": "G:\\Work\\Projects\\.NET\\HelloWorldApp\\BattlefieldGameLibrary\\BattlefieldGameLibrary.csproj",
+        "packagesPath": "C:\\Users\\arafa\\.nuget\\packages\\",
+        "outputPath": "G:\\Work\\Projects\\.NET\\HelloWorldApp\\BattlefieldGameLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\arafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -34,8 +34,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\_projects\\Angular\\HelloWorldApp\\PeopleLibrary\\PeopleLibrary.csproj": {
-                "projectPath": "E:\\_projects\\Angular\\HelloWorldApp\\PeopleLibrary\\PeopleLibrary.csproj"
+              "G:\\Work\\Projects\\.NET\\HelloWorldApp\\PeopleLibrary\\PeopleLibrary.csproj": {
+                "projectPath": "G:\\Work\\Projects\\.NET\\HelloWorldApp\\PeopleLibrary\\PeopleLibrary.csproj"
               }
             }
           }
@@ -64,25 +64,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.415\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\_projects\\Angular\\HelloWorldApp\\ConsoleUI\\ConsoleUI.csproj": {
+    "G:\\Work\\Projects\\.NET\\HelloWorldApp\\ConsoleUI\\ConsoleUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\_projects\\Angular\\HelloWorldApp\\ConsoleUI\\ConsoleUI.csproj",
+        "projectUniqueName": "G:\\Work\\Projects\\.NET\\HelloWorldApp\\ConsoleUI\\ConsoleUI.csproj",
         "projectName": "ConsoleUI",
-        "projectPath": "E:\\_projects\\Angular\\HelloWorldApp\\ConsoleUI\\ConsoleUI.csproj",
-        "packagesPath": "C:\\Users\\Ahmed\\.nuget\\packages\\",
-        "outputPath": "E:\\_projects\\Angular\\HelloWorldApp\\ConsoleUI\\obj\\",
+        "projectPath": "G:\\Work\\Projects\\.NET\\HelloWorldApp\\ConsoleUI\\ConsoleUI.csproj",
+        "packagesPath": "C:\\Users\\arafa\\.nuget\\packages\\",
+        "outputPath": "G:\\Work\\Projects\\.NET\\HelloWorldApp\\ConsoleUI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\arafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -98,11 +98,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\_projects\\Angular\\HelloWorldApp\\BattlefieldGameLibrary\\BattlefieldGameLibrary.csproj": {
-                "projectPath": "E:\\_projects\\Angular\\HelloWorldApp\\BattlefieldGameLibrary\\BattlefieldGameLibrary.csproj"
+              "G:\\Work\\Projects\\.NET\\HelloWorldApp\\BattlefieldGameLibrary\\BattlefieldGameLibrary.csproj": {
+                "projectPath": "G:\\Work\\Projects\\.NET\\HelloWorldApp\\BattlefieldGameLibrary\\BattlefieldGameLibrary.csproj"
               },
-              "E:\\_projects\\Angular\\HelloWorldApp\\PeopleLibrary\\PeopleLibrary.csproj": {
-                "projectPath": "E:\\_projects\\Angular\\HelloWorldApp\\PeopleLibrary\\PeopleLibrary.csproj"
+              "G:\\Work\\Projects\\.NET\\HelloWorldApp\\PeopleLibrary\\PeopleLibrary.csproj": {
+                "projectPath": "G:\\Work\\Projects\\.NET\\HelloWorldApp\\PeopleLibrary\\PeopleLibrary.csproj"
               }
             }
           }
@@ -131,25 +131,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.415\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\_projects\\Angular\\HelloWorldApp\\PeopleLibrary\\PeopleLibrary.csproj": {
+    "G:\\Work\\Projects\\.NET\\HelloWorldApp\\PeopleLibrary\\PeopleLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\_projects\\Angular\\HelloWorldApp\\PeopleLibrary\\PeopleLibrary.csproj",
+        "projectUniqueName": "G:\\Work\\Projects\\.NET\\HelloWorldApp\\PeopleLibrary\\PeopleLibrary.csproj",
         "projectName": "PeopleLibrary",
-        "projectPath": "E:\\_projects\\Angular\\HelloWorldApp\\PeopleLibrary\\PeopleLibrary.csproj",
-        "packagesPath": "C:\\Users\\Ahmed\\.nuget\\packages\\",
-        "outputPath": "E:\\_projects\\Angular\\HelloWorldApp\\PeopleLibrary\\obj\\",
+        "projectPath": "G:\\Work\\Projects\\.NET\\HelloWorldApp\\PeopleLibrary\\PeopleLibrary.csproj",
+        "packagesPath": "C:\\Users\\arafa\\.nuget\\packages\\",
+        "outputPath": "G:\\Work\\Projects\\.NET\\HelloWorldApp\\PeopleLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\arafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -191,7 +191,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.415\\RuntimeIdentifierGraph.json"
         }
       }
     }
