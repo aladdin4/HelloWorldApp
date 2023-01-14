@@ -24,3 +24,15 @@ G:\Work\Projects\.NET\HelloWorldApp\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.
 G:\Work\Projects\.NET\HelloWorldApp\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CoreCompileInputs.cache
 G:\Work\Projects\.NET\HelloWorldApp\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.dll
 G:\Work\Projects\.NET\HelloWorldApp\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.pdb
+G:\Work\Projects\.NET\HelloWorldApp\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.exe
+G:\Work\Projects\.NET\HelloWorldApp\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.deps.json
+G:\Work\Projects\.NET\HelloWorldApp\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.json
+G:\Work\Projects\.NET\HelloWorldApp\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.dev.json
+G:\Work\Projects\.NET\HelloWorldApp\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.dll
+G:\Work\Projects\.NET\HelloWorldApp\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.pdb
+G:\Work\Projects\.NET\HelloWorldApp\ConsoleUI\bin\Debug\netcoreapp3.1\BattlefieldGameLibrary.dll
+G:\Work\Projects\.NET\HelloWorldApp\ConsoleUI\bin\Debug\netcoreapp3.1\PeopleLibrary.dll
+G:\Work\Projects\.NET\HelloWorldApp\ConsoleUI\bin\Debug\netcoreapp3.1\BattlefieldGameLibrary.pdb
+G:\Work\Projects\.NET\HelloWorldApp\ConsoleUI\bin\Debug\netcoreapp3.1\PeopleLibrary.pdb
+G:\Work\Projects\.NET\HelloWorldApp\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CopyComplete
+G:\Work\Projects\.NET\HelloWorldApp\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache

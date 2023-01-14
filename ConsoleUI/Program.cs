@@ -15,7 +15,8 @@ namespace ConsoleUI
             List<ITester> myList = new List<ITester>();
             myList.Add(new FirstType { name= "xx", age= 12});
             myList.Add(new SecondType());
-
+            FirstType x = new FirstType();
+            x.printMeFirst("called");
             foreach (var item in myList)
             {
              //   item.

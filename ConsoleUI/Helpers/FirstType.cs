@@ -3,16 +3,18 @@ using System;
 
 namespace ConsoleUI
 {
-    public class FirstType
+    public class FirstType : BaseType
     {
         public string name { get; set; }
         public int age { get; set; }
 
-        public void printMeFirst(string name)
+      
+        public override string OverRideMe()
         {
-            Console.WriteLine("inside the first type class" + name);
-            BaseType val = new BaseType();
-            val.hasBattery = true;
+            throw new NotImplementedException();
+        }
+        public override void OverRideMeToo()
+        {
 
         }
         public void printMeSecond(string name)

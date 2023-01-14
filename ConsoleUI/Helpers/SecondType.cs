@@ -2,16 +2,22 @@
 
 namespace ConsoleUI
 {
-    public class SecondType : ITester
+    public class SecondType : BaseType
     {
-        public bool hasBattery { get; set; }
-        public void printMeFirst(string name)
+        public override string OverRideMe()
         {
-            Console.WriteLine("inside the second type class");
+            return "overridden";
         }
+
         public void printMethird(string name)
         {
             Console.WriteLine("the specific type method inside the second type class");
+        }
+
+        //one of the few real uses of the override feature
+        public override string ToString()
+        {
+            return base.ToString();
         }
     }
 
